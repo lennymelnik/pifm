@@ -1,5 +1,5 @@
 ```diff
-- Note: this project is no longer maintained
+- Note: this project is no longer maintained by the creators, but I shall continue to work on it
 ```
 
 ## UPDATE
